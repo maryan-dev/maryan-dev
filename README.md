@@ -1,4 +1,8 @@
-# Hi there! 👋
+# __  __    _    ____ __   __   _    _   _
+|  \/  |  / \  |  _ \\ \ / /  / \  | \ | |
+| |\/| | / _ \ | |_) |\ V /  / _ \ |  \| |
+| |  | |/ ___ \|  _ <  | |  / ___ \| |\  |
+|_|  |_/_/   \_\_| \_\ |_| /_/   \_\_| \_|
 
 I'm **Maryan Mohamed**, a **Data Science & Machine Learning Enthusiast** passionate about building intelligent systems and exploring full-stack development.
 
