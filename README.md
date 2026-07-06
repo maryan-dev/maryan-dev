@@ -1,6 +1,7 @@
-#            i'm maryan mohamed           
+##                   I'm ****Maryan Mohamed***           
 
-I'm **Maryan Mohamed**, a **Data Science & Machine Learning Enthusiast** passionate about building intelligent systems and exploring full-stack development.
+ 
+ **Data Science & Machine Learning Enthusiast** passionate about building intelligent systems and exploring full-stack development.
 
 ---
 
