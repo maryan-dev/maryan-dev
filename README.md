@@ -8,8 +8,6 @@ I'm **Maryan Mohamed**, a **Data Science & Machine Learning Enthusiast** passion
 
 - 🎓 Self-taught developer with a passion for **Machine Learning** and **Web Development**
 
-- 💻 Building projects that combine data science with practical applications
-
 - 🌍 Exploring the intersection of **AI**, **web technologies**, and **mobile development**
 
 - 🔗 Always learning and contributing to open-source projects
@@ -28,19 +26,6 @@ I'm **Maryan Mohamed**, a **Data Science & Machine Learning Enthusiast** passion
 
 
 ---
-
-## 📊 What I'm Working On
-
-- Building full-stack web applications with React and Node.js
-
-- Exploring machine learning projects with Python
-
-- Developing cross-platform mobile apps with Flutter
-
-- Contributing to open-source projects
-
----
-
 ## 🌟 Featured Projects
 
 Check out my repositories for more details on my latest work!
